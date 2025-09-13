@@ -1,1 +1,1 @@
-git config --global user.name
+day la dong 1 , bat dau thu commit thu nhat
