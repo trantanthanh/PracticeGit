@@ -1,1 +1,2 @@
 day la dong 1 , bat dau thu commit thu nhat
+day la dong 2, them sau commit test 1
