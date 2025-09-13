@@ -1,3 +1,4 @@
 day la dong 1 , bat dau thu commit thu nhat
 day la dong 2, them sau commit test 1
 day la dong 3, them sau commit test 2
+day la dong 4, them sau khi goi git push -up origin "branch_test_detach_commit_swith"
